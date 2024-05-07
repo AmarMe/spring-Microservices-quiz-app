@@ -1,5 +1,5 @@
 # Quiz App 
-### on Microservices architecturehttps
+### on Microservices architecture
 Built with Spring boot and PostgreSQL
 
 ## Introduction
